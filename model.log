@@ -1,0 +1,599 @@
+2022-05-04 02:06:22 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:06:22 image_list.py[line:72] DEBUG label width:240
+2022-05-04 02:06:22 image_list.py[line:73] DEBUG label height:240
+2022-05-04 02:06:58 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:06:58 image_list.py[line:72] DEBUG label width:240
+2022-05-04 02:06:58 image_list.py[line:73] DEBUG label height:240
+2022-05-04 02:06:58 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:06:58 image_list.py[line:72] DEBUG label width:240
+2022-05-04 02:06:58 image_list.py[line:73] DEBUG label height:240
+2022-05-04 02:08:58 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:08:58 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:08:58 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:08:58 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:08:58 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:08:58 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:08:58 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:08:58 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:09:23 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:09:23 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:09:23 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:09:23 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:09:23 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:09:23 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:09:23 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:09:23 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:09:33 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:09:33 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:09:33 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:09:33 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:09:33 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:09:33 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:09:33 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:09:33 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:10:16 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:10:16 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:10:16 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:10:16 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:10:24 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:10:24 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:10:24 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:10:24 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:10:24 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:10:24 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:10:24 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:10:24 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:10:24 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:10:24 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:10:24 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:10:24 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:12:51 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:12:51 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:12:51 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:12:51 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:12:51 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:12:51 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:12:51 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:12:51 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:12:51 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:12:51 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:12:51 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:12:51 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:12:54 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:12:54 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:12:54 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:12:54 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:12:54 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:12:54 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:12:54 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:12:54 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:12:54 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:12:54 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:12:54 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:12:54 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:12:56 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:12:56 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:12:56 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:12:56 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:13:11 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:13:11 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:13:11 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:13:11 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:13:11 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:13:11 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:13:11 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:13:11 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:13:24 main.py[line:25] DEBUG path query:[(1, '/Users/devilper/Downloads/010-正品沙发')]
+2022-05-04 02:13:26 main.py[line:43] DEBUG update path data:('', 1)
+2022-05-04 02:15:19 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:15:19 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:15:19 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:15:19 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:15:19 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:15:19 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:15:19 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:15:19 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:15:19 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:15:19 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:15:19 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:15:19 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:17:25 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:17:25 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:17:25 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:17:25 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:17:25 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:17:25 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:17:25 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:17:25 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:17:25 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:17:25 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:17:25 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:17:25 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:17:54 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:17:54 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:17:54 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:17:54 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:17:54 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:17:54 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:17:54 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:17:54 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:17:54 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:17:54 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:17:54 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:17:54 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:17:56 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:17:56 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:17:56 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:17:56 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:17:56 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:17:56 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:17:56 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:17:56 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:18:08 main.py[line:25] DEBUG path query:[(1, '')]
+2022-05-04 02:18:12 main.py[line:43] DEBUG update path data:('/Users/devilper/Downloads/010-正品沙发', 1)
+2022-05-04 02:18:35 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:18:35 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:18:35 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:18:35 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:18:35 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:18:35 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:18:35 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:18:35 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:18:38 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:18:38 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:18:38 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:18:38 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:18:51 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:18:51 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:18:51 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:18:51 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:18:51 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:18:51 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:18:51 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:18:51 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:18:51 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:18:51 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:18:51 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:18:51 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:19:16 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:19:16 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:19:16 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:19:16 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:19:16 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:19:16 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:19:16 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:19:16 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:19:16 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:19:16 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:19:16 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:19:16 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:19:18 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:19:18 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:19:18 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:19:18 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:19:18 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:19:18 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:19:18 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:19:18 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:19:18 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:19:18 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:19:18 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:19:18 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:19:26 main.py[line:25] DEBUG path query:[(1, '/Users/devilper/Downloads/010-正品沙发')]
+2022-05-04 02:19:28 main.py[line:43] DEBUG update path data:('', 1)
+2022-05-04 02:19:50 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:19:50 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:19:50 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:19:50 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:19:50 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:19:50 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:19:50 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:19:50 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:19:50 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:19:50 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:19:50 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:19:50 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:19:50 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:19:50 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:19:50 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:19:50 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:19:52 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:19:52 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:19:52 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:19:52 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:20:03 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:20:03 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:20:03 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:20:03 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:20:03 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:20:03 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:20:03 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:20:03 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:20:03 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:20:03 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:20:03 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:20:03 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:20:03 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:20:03 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:20:03 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:20:03 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:22:34 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:22:34 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:22:34 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:22:34 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:22:34 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:22:34 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:22:34 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:22:34 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:22:34 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:22:34 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:22:34 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:22:34 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:22:34 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:22:34 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:22:34 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:22:34 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:22:38 main.py[line:25] DEBUG path query:[(1, '')]
+2022-05-04 02:22:45 main.py[line:43] DEBUG update path data:('/Users/devilper/Downloads/010-正品沙发', 1)
+2022-05-04 02:23:05 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:23:05 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:23:05 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:23:05 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:23:05 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:23:05 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:23:05 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:23:05 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:23:05 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:23:05 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:23:05 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:23:05 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:23:05 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:23:05 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:23:05 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:23:05 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:23:05 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:23:05 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:23:05 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:23:05 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:23:17 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:23:17 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:23:17 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:23:17 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:23:17 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:23:17 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:23:17 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:23:17 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:23:17 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:23:17 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:23:17 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:23:17 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:23:17 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:23:17 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:23:17 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:23:17 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:23:17 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:23:17 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:23:17 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:23:17 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:23:34 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:23:35 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:23:35 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:23:35 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:24:03 main.py[line:25] DEBUG path query:[(1, '/Users/devilper/Downloads/010-正品沙发')]
+2022-05-04 02:24:42 main.py[line:43] DEBUG update path data:('', 1)
+2022-05-04 02:25:22 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:25:22 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:25:22 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:25:22 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:25:22 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:25:22 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:25:22 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:25:22 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:25:22 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:25:22 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:25:22 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:25:22 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:25:22 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:25:22 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:25:22 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:25:22 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:25:22 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:25:22 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:25:22 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:25:22 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:25:22 image_list.py[line:69] DEBUG suit:0
+2022-05-04 02:25:22 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 02:25:22 image_list.py[line:73] DEBUG label width:240
+2022-05-04 02:25:22 image_list.py[line:74] DEBUG label height:240
+2022-05-04 02:25:25 main.py[line:25] DEBUG path query:[(1, '')]
+2022-05-04 02:25:31 main.py[line:43] DEBUG update path data:('/Users/devilper/Downloads/010-正品沙发', 1)
+2022-05-04 02:25:35 main.py[line:25] DEBUG path query:[(1, '/Users/devilper/Downloads/010-正品沙发')]
+2022-05-04 02:25:40 main.py[line:25] DEBUG path query:[(1, '/Users/devilper/Downloads/010-正品沙发')]
+2022-05-04 17:50:16 image_list.py[line:69] DEBUG suit:0
+2022-05-04 17:50:16 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 17:50:16 image_list.py[line:73] DEBUG label width:240
+2022-05-04 17:50:16 image_list.py[line:74] DEBUG label height:240
+2022-05-04 17:50:16 image_list.py[line:69] DEBUG suit:0
+2022-05-04 17:50:16 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 17:50:16 image_list.py[line:73] DEBUG label width:240
+2022-05-04 17:50:16 image_list.py[line:74] DEBUG label height:240
+2022-05-04 17:50:16 image_list.py[line:69] DEBUG suit:0
+2022-05-04 17:50:16 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 17:50:16 image_list.py[line:73] DEBUG label width:240
+2022-05-04 17:50:16 image_list.py[line:74] DEBUG label height:240
+2022-05-04 17:50:16 image_list.py[line:69] DEBUG suit:0
+2022-05-04 17:50:16 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 17:50:16 image_list.py[line:73] DEBUG label width:240
+2022-05-04 17:50:16 image_list.py[line:74] DEBUG label height:240
+2022-05-04 17:50:16 image_list.py[line:69] DEBUG suit:0
+2022-05-04 17:50:16 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 17:50:16 image_list.py[line:73] DEBUG label width:240
+2022-05-04 17:50:16 image_list.py[line:74] DEBUG label height:240
+2022-05-04 17:50:34 image_list.py[line:69] DEBUG suit:0
+2022-05-04 17:50:34 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 17:50:34 image_list.py[line:73] DEBUG label width:240
+2022-05-04 17:50:34 image_list.py[line:74] DEBUG label height:240
+2022-05-04 17:50:34 image_list.py[line:69] DEBUG suit:0
+2022-05-04 17:50:34 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 17:50:34 image_list.py[line:73] DEBUG label width:240
+2022-05-04 17:50:34 image_list.py[line:74] DEBUG label height:240
+2022-05-04 17:50:34 image_list.py[line:69] DEBUG suit:0
+2022-05-04 17:50:34 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 17:50:34 image_list.py[line:73] DEBUG label width:240
+2022-05-04 17:50:34 image_list.py[line:74] DEBUG label height:240
+2022-05-04 17:50:34 image_list.py[line:69] DEBUG suit:0
+2022-05-04 17:50:34 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 17:50:34 image_list.py[line:73] DEBUG label width:240
+2022-05-04 17:50:34 image_list.py[line:74] DEBUG label height:240
+2022-05-04 18:55:32 image_list.py[line:69] DEBUG suit:0
+2022-05-04 18:55:32 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 18:55:32 image_list.py[line:73] DEBUG label width:240
+2022-05-04 18:55:32 image_list.py[line:74] DEBUG label height:240
+2022-05-04 18:55:32 image_list.py[line:69] DEBUG suit:0
+2022-05-04 18:55:32 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 18:55:32 image_list.py[line:73] DEBUG label width:240
+2022-05-04 18:55:32 image_list.py[line:74] DEBUG label height:240
+2022-05-04 18:55:32 image_list.py[line:69] DEBUG suit:0
+2022-05-04 18:55:32 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 18:55:32 image_list.py[line:73] DEBUG label width:240
+2022-05-04 18:55:32 image_list.py[line:74] DEBUG label height:240
+2022-05-04 18:55:32 image_list.py[line:69] DEBUG suit:0
+2022-05-04 18:55:32 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 18:55:32 image_list.py[line:73] DEBUG label width:240
+2022-05-04 18:55:32 image_list.py[line:74] DEBUG label height:240
+2022-05-04 18:58:38 image_list.py[line:69] DEBUG suit:0
+2022-05-04 18:58:38 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 18:58:38 image_list.py[line:73] DEBUG label width:240
+2022-05-04 18:58:38 image_list.py[line:74] DEBUG label height:240
+2022-05-04 18:58:38 image_list.py[line:69] DEBUG suit:0
+2022-05-04 18:58:38 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 18:58:38 image_list.py[line:73] DEBUG label width:240
+2022-05-04 18:58:38 image_list.py[line:74] DEBUG label height:240
+2022-05-04 18:58:38 image_list.py[line:69] DEBUG suit:0
+2022-05-04 18:58:38 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 18:58:38 image_list.py[line:73] DEBUG label width:240
+2022-05-04 18:58:38 image_list.py[line:74] DEBUG label height:240
+2022-05-04 18:58:38 image_list.py[line:69] DEBUG suit:0
+2022-05-04 18:58:38 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 18:58:38 image_list.py[line:73] DEBUG label width:240
+2022-05-04 18:58:38 image_list.py[line:74] DEBUG label height:240
+2022-05-04 18:58:42 image_list.py[line:69] DEBUG suit:0
+2022-05-04 18:58:42 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 18:58:42 image_list.py[line:73] DEBUG label width:240
+2022-05-04 18:58:42 image_list.py[line:74] DEBUG label height:240
+2022-05-04 18:58:42 image_list.py[line:69] DEBUG suit:0
+2022-05-04 18:58:42 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 18:58:42 image_list.py[line:73] DEBUG label width:240
+2022-05-04 18:58:42 image_list.py[line:74] DEBUG label height:240
+2022-05-04 18:58:42 image_list.py[line:69] DEBUG suit:0
+2022-05-04 18:58:42 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 18:58:42 image_list.py[line:73] DEBUG label width:240
+2022-05-04 18:58:42 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:00:30 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:00:30 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:00:30 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:00:30 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:00:30 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:00:30 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:00:30 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:00:30 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:00:30 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:00:30 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:00:30 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:00:30 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:00:30 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:00:30 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:00:30 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:00:30 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:00:49 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:00:49 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:00:49 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:00:49 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:00:49 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:00:49 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:00:49 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:00:49 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:00:49 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:00:49 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:00:49 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:00:49 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:00:49 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:00:49 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:00:49 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:00:49 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:04 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:04 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:04 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:04 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:04 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:04 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:04 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:04 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:04 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:04 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:04 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:04 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:04 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:04 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:04 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:04 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:24 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:24 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:24 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:24 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:24 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:24 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:24 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:24 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:24 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:24 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:24 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:24 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:24 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:24 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:24 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:24 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:41 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:41 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:41 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:41 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:41 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:41 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:41 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:41 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:41 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:41 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:41 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:41 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:41 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:41 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:41 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:41 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:54 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:54 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:54 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:54 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:54 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:54 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:54 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:54 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:54 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:54 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:54 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:54 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:01:54 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:01:54 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:01:54 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:01:54 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:02:03 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:02:03 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:02:03 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:02:03 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:02:03 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:02:03 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:02:03 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:02:03 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:02:03 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:02:03 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:02:03 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:02:03 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:02:03 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:02:03 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:02:03 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:02:03 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:02:25 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:02:25 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:02:25 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:02:25 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:02:25 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:02:25 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:02:25 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:02:25 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:02:25 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:02:25 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:02:25 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:02:25 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:02:25 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:02:25 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:02:25 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:02:25 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:02:36 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:02:36 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:02:36 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:02:36 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:02:36 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:02:36 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:02:36 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:02:36 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:02:36 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:02:36 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:02:36 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:02:36 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:02:36 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:02:36 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:02:36 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:02:36 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:03:53 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:03:53 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:03:53 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:03:53 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:03:53 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:03:53 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:03:53 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:03:53 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:03:53 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:03:53 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:03:53 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:03:53 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:03:53 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:03:53 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:03:53 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:03:53 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:04:11 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:04:11 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:04:11 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:04:11 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:04:11 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:04:11 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:04:11 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:04:11 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:04:11 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:04:11 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:04:11 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:04:11 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:04:11 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:04:11 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:04:11 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:04:11 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:04:39 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:04:39 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:04:39 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:04:39 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:04:39 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:04:39 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:04:39 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:04:39 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:04:39 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:04:39 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:04:39 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:04:39 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:04:39 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:04:39 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:04:39 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:04:39 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:04:51 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:04:51 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:04:51 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:04:51 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:04:51 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:04:51 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:04:51 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:04:51 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:04:51 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:04:51 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:04:51 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:04:51 image_list.py[line:74] DEBUG label height:240
+2022-05-04 19:04:51 image_list.py[line:69] DEBUG suit:0
+2022-05-04 19:04:51 image_list.py[line:72] DEBUG label:PyQt5.QtCore.QSize(640, 480)
+2022-05-04 19:04:51 image_list.py[line:73] DEBUG label width:240
+2022-05-04 19:04:51 image_list.py[line:74] DEBUG label height:240
