@@ -12,7 +12,7 @@ class SearchWindow(QMainWindow, search.Ui_MainWindow):
     def __init__(self):
         super(SearchWindow, self).__init__()
         self.setupUi(self)
-        self.image_widget = ImageWidget(self, col=4, w=750, h=500)
+        self.image_widget = ImageWidget(self, col=4, w=1390, h=980)
         self.image_widget.move(25, 70)
         self.upButton.clicked.connect(lambda: self.image_widget.turn_page(-1))
         self.downButton.clicked.connect(lambda: self.image_widget.turn_page(1))  # 图像列表翻页

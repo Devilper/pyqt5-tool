@@ -72,7 +72,7 @@ class ImageWidget(QWidget):
                 logging.debug(f"label:{label.size()}")
                 logging.debug(f"label width:{width}")
                 logging.debug(f"label height:{height}")
-                pix = QPixmap(path).scaled(int(366), int(241))
+                pix = QPixmap(path).scaled(int(686), int(480))
                 # pix = QPixmap(path)
 
             elif self.suit == 1:
